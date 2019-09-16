@@ -1,7 +1,11 @@
-# Project-and-Prensentation-Fall-2019
-Project and Presentation material for Fall 2019 semester.
+# Kritzman Regime Detection by HMM
+Authors:
 
-BNP Test (Regime Detection)
+Tianyu Zhang (zhangtianyupro@gmail.com)  
+Liang Zou (liazou@nyu.edu)  
+Renjie Pan (renjie.pan@nyu.edu)  
+
+Regime Detection  
 
 This project will require data manipulation, machine learning, and writing in Python. In order for me to get a sense how much of these skills your team has I am going to give both NYU teams a skills test. 
 
