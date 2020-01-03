@@ -1,4 +1,4 @@
-# Kritzman Regime Detection by HMM
+# Kritzman Regime Detection by Hidden Markov Model
 Authors:
 
 Tianyu Zhang (zhangtianyupro@gmail.com)  
